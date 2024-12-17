@@ -117,7 +117,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Hayoo apalohh'>",
-        background: '#fff url("img/iput-bg.jpg")',
+        background: '#fff url("img/new-background.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/2.gif")
