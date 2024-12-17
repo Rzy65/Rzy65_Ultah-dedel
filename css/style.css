@@ -31,8 +31,8 @@
     background-repeat: no-repeat;
     background-image: url(../img/new-background.jpg);
     background-size: cover;
-    background-position: 50%;
-    -webkit-filter: blur(4px);
+    background-position: 30%;
+    -webkit-filter: blur(0px);
 }
 
 .swal2-image {
