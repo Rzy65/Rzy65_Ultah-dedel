@@ -25,14 +25,13 @@
     right: 0;
     bottom: 0;
     left: 0;
-    opacity: .8;
-    /* height: 100vh; */
+    opacity: .8; /* Jika opacity tidak diinginkan, Anda bisa menghapusnya */
     z-index: 0;
     background-repeat: no-repeat;
     background-image: url(../img/new-background.jpg);
     background-size: cover;
-    background-position: 30%;
-    -webkit-filter: blur(0px);
+    background-position: center; /* Untuk memastikan gambar latar terpusat */
+    filter: none; /* Pastikan tidak ada filter lain yang diterapkan */
 }
 
 .swal2-image {
