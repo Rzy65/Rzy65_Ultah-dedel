@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Love You Beb. Semangat SemHAs besok yaps!',
     messDesc: 'Awas Terbirak Yang, HEHEHE',
     btnAccept: 'Oke, siap Boskuu!',
-    messLink: 'https://api.whatsapp.com/send/?phone=628217848126' //link WhatsApp
+    messLink: 'https://api.whatsapp.com/send/?phone=6282178481261' //link WhatsApp
 }
